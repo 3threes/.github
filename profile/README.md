@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/27716524/153995097-fb2b2aae-fc27-4846-b37c-17bdd6586a8a.png" href="https://join.slack.com/t/threebases/shared_invite/zt-13fpdkb1z-xf1tspYebM0PW0laVLs3Dg" style="height: 100px">
+  <a href="https://join.slack.com/t/threebases/shared_invite/zt-13fpdkb1z-xf1tspYebM0PW0laVLs3Dg" >
+<img src="https://user-images.githubusercontent.com/27716524/153995097-fb2b2aae-fc27-4846-b37c-17bdd6586a8a.png" style="height: 100px">
 </img>
+    </a>
 </p>
 
 
