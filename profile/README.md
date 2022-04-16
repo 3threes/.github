@@ -10,11 +10,8 @@
     </a>
 </p>
 
-
-
 <p align="center">
 Welcome to Three trees
   <br/>
 Modern and Graph based knowledge wiki system made with Notion
 </p>
-
