@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://join.slack.com/t/threebases/shared_invite/zt-13fpdkb1z-xf1tspYebM0PW0laVLs3Dg" >
+  <a href="https://join.slack.com/t/threebases/shared_invite/zt-17jf73k41-1mprSe2OpzIEznxQ37sqGw" >
 <img src="https://user-images.githubusercontent.com/27716524/153995097-fb2b2aae-fc27-4846-b37c-17bdd6586a8a.png" style="height: 100px">
 </img>
     </a>
