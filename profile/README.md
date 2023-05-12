@@ -4,17 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://join.slack.com/t/threebases/shared_invite/zt-17jf73k41-1mprSe2OpzIEznxQ37sqGw" >
+  <a href="https://join.slack.com/t/texonom/shared_invite/zt-1v3c1k71e-LGXxamJ2Nbt8jM5AbX8cNg" >
 <img src="https://user-images.githubusercontent.com/27716524/153995097-fb2b2aae-fc27-4846-b37c-17bdd6586a8a.png" style="height: 100px">
 </img>
     </a>
 </p>
 
-
-
 <p align="center">
-Welcome to Three trees
+Welcome to Texonom
   <br/>
-Modern and Graph based knowledge wiki system made with Notion
+Modern and Graph based knowledge wiki system
 </p>
-
