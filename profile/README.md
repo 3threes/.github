@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/27716524/152349063-51b1ba7e-2775-4b98-b02f-51f51c4d857b.png" style="width: 300px">
+<img src="https://github.com/texonom/.github/assets/27716524/7bab3f66-c715-4d57-a8da-d4588ada6078" style="width: 300px">
 </img>
 </p>
 
