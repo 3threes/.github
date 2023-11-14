@@ -9,5 +9,3 @@ Welcome to Texonom
   <br/>
 Modern and Graph based knowledge wiki system
   <br/>
-<a href="https://user-images.githubusercontent.com/27716524/153995097-fb2b2aae-fc27-4846-b37c-17bdd6586a8a.png">Join Slack<a/>
-</p>
